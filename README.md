@@ -2,7 +2,7 @@
 
 ## 📦 APK Download
 
-📲 [Download the APK](https://github.com/itsme-arun/Katomaran/releases/download/v1.0.0/todo-app.apk)
+📲 [Download the APK](https://github.com/itsme-arun/Katomaran/releases/download/v1.0.0/universal.apk)
 
 
 
