@@ -1,5 +1,8 @@
 # ToDo Mobile App
 
+📦 [Download APK](https://github.com/<your-username>/<your-repo-name>/releases/download/v1.0.0/your-app-name.apk)
+
+
 A cross-platform (Android/iOS) **ToDo Task Management App** built with React Native (Expo), Firebase, and Social Login.  
 Designed with a clean UI and scalable MVVM architecture—ideal for hackathon demos.
 
