@@ -30,15 +30,5 @@ This app follows the **MVVM (Model-View-ViewModel)** design pattern:
 - **ViewModel:** React hooks and Context API for state management
 - **View:** React Native components with clean UI and animations
 
-📌 *Refer to the included architecture diagram for a visual overview.*
-
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
 
 
